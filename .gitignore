@@ -1,0 +1,11 @@
+# Ferramentas locais do Claude Code (configurações pessoais)
+.claude/
+
+# Arquivos do sistema operacional
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporários de editor
+*~
+*.tmp
