@@ -110,7 +110,7 @@ a{text-decoration:none;color:inherit}
   position:absolute;background:#fbf5ee;color:var(--dark);border-radius:14px;padding:12px 16px;
   box-shadow:0 12px 30px rgba(0,0,0,.28);font-weight:700;font-size:.85rem;
 }
-.float.one{top:-16px;left:-16px}
+.float.one{top:-30px;left:-16px}
 .float.two{bottom:-18px;right:-12px;background:var(--caramel);color:#3a2b22}
 .float small{display:block;font-weight:500;color:#8a7a6a;font-size:.72rem}
 .float.two small{color:#3a2b22}
